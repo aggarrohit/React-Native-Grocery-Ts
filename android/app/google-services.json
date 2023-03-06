@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "419592271880",
+    "firebase_url": "https://grocerydemo-85ce3.firebaseio.com",
+    "project_id": "grocerydemo-85ce3",
+    "storage_bucket": "grocerydemo-85ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419592271880:android:8633776abf24040a51b9bd",
+        "android_client_info": {
+          "package_name": "com.groceryapprn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419592271880-47h55gmdq73rhogq03le08ocnbs657l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groceryapprn",
+            "certificate_hash": "942a0d68ba8a8e787beab946fc645aceaf49ae37"
+          }
+        },
+        {
+          "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFXPrv27txNFYjA1qZcszzaKAKeijEzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419592271880:android:3e84eea22b18d4d551b9bd",
+        "android_client_info": {
+          "package_name": "in.mydigibusiness.GroceryDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419592271880-5f5qd54in504g1v03hf9scslcpe4get9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.mydigibusiness.GroceryDemo",
+            "certificate_hash": "3184211d886d03da79246f903e6e046dcd3d5da5"
+          }
+        },
+        {
+          "client_id": "419592271880-hssc0l99mc2vaqheno2f5mvqmolulkdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.mydigibusiness.GroceryDemo",
+            "certificate_hash": "942a0d68ba8a8e787beab946fc645aceaf49ae37"
+          }
+        },
+        {
+          "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFXPrv27txNFYjA1qZcszzaKAKeijEzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419592271880:android:b69af9eec5db383651b9bd",
+        "android_client_info": {
+          "package_name": "in.mydigibusiness.GroceryDemoDelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419592271880-ktb3aq1cvvteteaf6pgp2d8oemerd33r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.mydigibusiness.GroceryDemoDelivery",
+            "certificate_hash": "942a0d68ba8a8e787beab946fc645aceaf49ae37"
+          }
+        },
+        {
+          "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFXPrv27txNFYjA1qZcszzaKAKeijEzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419592271880:android:2727829c694aa40d51b9bd",
+        "android_client_info": {
+          "package_name": "in.mydigibusiness.GroceryDemoMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419592271880-6jig3u5bueg1tamfbfhkh0lp83pjq867.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.mydigibusiness.GroceryDemoMaster",
+            "certificate_hash": "942a0d68ba8a8e787beab946fc645aceaf49ae37"
+          }
+        },
+        {
+          "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFXPrv27txNFYjA1qZcszzaKAKeijEzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419592271880-09mnldnfiv3ov246vjnaa4jdpd5fg0ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

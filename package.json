@@ -1,0 +1,56 @@
+{
+  "name": "GroceryAppRn",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
+    "@react-native-community/datetimepicker": "^3.5.2",
+    "@react-native-firebase/app": "^13.1.1",
+    "@react-native-firebase/messaging": "^13.1.1",
+    "@react-navigation/drawer": "^6.5.7",
+    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/native-stack": "^6.9.8",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@types/react-native": "^0.71.3",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
+    "deprecated-react-native-prop-types": "^4.0.0",
+    "moment": "^2.29.4",
+    "react": "18.1.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.70.5",
+    "react-native-flipper": "^0.177.0",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-maps": "^0.29.4",
+    "react-native-radio-buttons-group": "^2.3.0",
+    "react-native-reanimated": "^2.14.4",
+    "react-native-render-html": "^6.3.4",
+    "react-native-safe-area-context": "^3.4.1",
+    "react-native-screens": "^3.19.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-web": "^0.17.7",
+    "react-redux": "^7.2.9",
+    "redux": "^4.2.1",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.15.8",
+    "@babel/runtime": "7.15.4",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.66.2",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
